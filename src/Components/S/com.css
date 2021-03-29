@@ -1,0 +1,13 @@
+@media screen and (max-width: 600px) {
+  .my_holder {
+    /* background-color: blue; */
+    display: flex;
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 600px) {
+  .my_main {
+    width: 50px;
+    background-color: blue;
+  }
+}
